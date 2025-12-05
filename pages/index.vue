@@ -18,7 +18,7 @@
       <!-- BUTTON: LAKES MAP -->
       <NuxtLink
         to="/Lab3"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300]  hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Water levels (Map)
       </NuxtLink>
@@ -26,7 +26,7 @@
       <!-- BUTTON: WATER TRANSPARENCY -->
       <NuxtLink
         to="/Lab4"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300]  hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Transparency
       </NuxtLink>
@@ -34,7 +34,7 @@
       <!-- BUTTON: TEMPERATURE -->
       <NuxtLink
         to="/Lab5"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300]  hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Water temperature
       </NuxtLink>
@@ -42,7 +42,7 @@
       <!-- BUTTON: ELECTRICAL CONDUCTIVITY -->
       <NuxtLink
         to="/Lab6"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300]  hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Electrical conductivity
       </NuxtLink>
@@ -50,7 +50,7 @@
       <!-- BUTTON: COORDINATES (YOUR MAP PAGE) -->
       <NuxtLink
         to="/Lab0"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300]  hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Coordinates & Lakes
       </NuxtLink>
@@ -58,7 +58,7 @@
       <!-- BUTTON: ABOUT PATHOGENS -->
       <NuxtLink
         to="/inform"
-        class="bg-[#D0A300] hover:bg-[#0c2554d2] text-white font-semibold py-4 px-6 rounded-xl shadow-md text-center"
+        class="bg-[#FAD22C] hover:bg-[#0c2554d2] hover:text-[#D0A300] hover:border-solid hover:border-2 hover:border-[#D0A300] text-black font-semibold py-4 px-6 rounded-xl shadow-md text-center"
       >
         Pathogens information
       </NuxtLink>
