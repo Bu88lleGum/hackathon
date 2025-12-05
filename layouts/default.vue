@@ -15,6 +15,7 @@
   <!-- Desktop -->
   <nav class="hidden md:flex gap-6 text-lg">
     <NuxtLink to="/" class="hover:text-[#D0A300] hover:bg-[#0C2554] rounded-lg p-2">Home</NuxtLink>
+    <NuxtLink to="/Lab0" class="hover:text-[#D0A300] hover:bg-[#0C2554] rounded-lg p-2">Location</NuxtLink>
     <NuxtLink to="/inform" class="hover:text-[#D0A300] hover:bg-[#0C2554] rounded-lg p-2">Pathogens</NuxtLink>
     <NuxtLink to="/Lab3" class="hover:text-[#D0A300] hover:bg-[#0C2554] rounded-lg p-2">Water level</NuxtLink>
     <NuxtLink to="/Lab4" class="hover:text-[#D0A300] hover:bg-[#0C2554] rounded-lg p-2">Transparency</NuxtLink>
@@ -49,6 +50,7 @@
         <button class="ml-auto text-2xl" @click="burgerOpen = false">✕</button>
 
     <NuxtLink to="/" class="text-[#D0A300] bg-[#0C2554] rounded-lg p-2"@click="closeBurger">Home</NuxtLink>
+    <NuxtLink to="/Lab0" class="text-[#D0A300] bg-[#0C2554] rounded-lg p-2">Location</NuxtLink>
     <NuxtLink to="/inform" class="text-[#D0A300] bg-[#0C2554] rounded-lg p-2"@click="closeBurger">Pathogens</NuxtLink>
     <NuxtLink to="/Lab3" class="text-[#D0A300] bg-[#0C2554] rounded-lg p-2"@click="closeBurger">Water level</NuxtLink>
     <NuxtLink to="/Lab4" class="text-[#D0A300] bg-[#0C2554] rounded-lg p-2"@click="closeBurger">Transparency</NuxtLink>
